@@ -1,0 +1,4 @@
+enum Categoria{
+    Eletrocinos = "ELETRÔNICOS"
+    
+}
