@@ -1,4 +1,0 @@
-enum Categoria{
-    Eletrocicos = "ELETRÔNICOS"
-    
-}
